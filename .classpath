@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Dev/java/AGE-DL/Vendor/Natives"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/laf-plugin-7.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/laf-widget-7.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/log4j-api-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/lzma.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/substance-7.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/LWJGL2/jar/trident-7.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/java/AGE-DL/Vendor/JOML 1.9.25/joml-1.9.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
